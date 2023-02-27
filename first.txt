@@ -5,6 +5,6 @@ this is a new file
 Second change for the project
 
 
-Text added from another branch
+
 
 
